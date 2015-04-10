@@ -1,0 +1,11 @@
+logo:
+#d44332
+
+texte:
+#131313
+
+Rect sur banniere:
+#766464
+
+Background footer:
+#999999
